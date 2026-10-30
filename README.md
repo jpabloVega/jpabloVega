@@ -1,7 +1,7 @@
 ## Pablo here, nice to meet you! 👋
 
 - Main language is Spanish, my English is usable and im learning japanese but that is still a work in progress.
-- Working on Dodeyo as japanese novel to kindle cli app.
+- Working on Dodeyo a japanese web novel to kindle cli app.
 - Learning coding is like climbing a mountain that never stops growing, I love it!
 - Currently learning discord API.
 - Finished backend course at [Bootdev](https://www.boot.dev/).
