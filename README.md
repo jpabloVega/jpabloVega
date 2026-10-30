@@ -1,4 +1,11 @@
-## Hi there 👋
+## Pablo here, nice to meet you! 👋
+
+- Main language is Spanish, my English is usable and im learning japanese but that is still a work in progress.
+- Working on Dodeyo as japanese novel to kindle cli app.
+- Learning coding is like climbing a mountain that never stops growing, I love it!
+- Currently learning discord API.
+- Finished backend course at [Bootdev](https://www.boot.dev/).
+- I dont actively use social media, you can reach me via email vega_perezpablo@hotmail.com.
 
 <!--
 **jpabloVega/jpabloVega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
